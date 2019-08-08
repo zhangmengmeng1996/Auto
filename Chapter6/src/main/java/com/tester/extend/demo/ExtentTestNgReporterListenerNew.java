@@ -9,10 +9,12 @@ import com.aventstack.extentreports.reporter.configuration.ChartLocation;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 import org.testng.*;
 import org.testng.xml.XmlSuite;
-
 import java.io.File;
 import java.util.*;
-public class ExtentTestNgReporterListenerNew implements IReporter {
+/*
+建立监听器
+ */
+public class ExtentTestNgReporterListenerNew  implements IReporter {
     //生成的路径以及文件名
     private static final String OUTPUT_FOLDER = "test-output/";
     private static final String FILE_NAME = "index.html";
@@ -36,7 +38,7 @@ public class ExtentTestNgReporterListenerNew implements IReporter {
             int suiteFailSize=0;
             int suitePassSize=0;
             int suiteSkipSize=0;
-            ExtentTest suiteTest=null;
+            com.aventstack.extentreports.ExtentTest suiteTest=null;
             //存在多个suite的情况下，在报告中将同一个一个suite的测试结果归为一类，创建一级节点。
             if(createSuiteNode){
                 suiteTest = extent.createTest(suite.getName()).assignCategory(suite.getName());
@@ -46,7 +48,7 @@ public class ExtentTestNgReporterListenerNew implements IReporter {
                 createSuiteResultNode=true;
             }
             for (ISuiteResult r : result.values()) {
-                ExtentTest resultNode;
+                com.aventstack.extentreports.ExtentTest resultNode;
                 ITestContext context = r.getTestContext();
                 if(createSuiteResultNode){
                     //没有创建suite的情况下，将在SuiteResult的创建为一级节点，否则创建为suite的一个子节点。
@@ -106,9 +108,8 @@ public class ExtentTestNgReporterListenerNew implements IReporter {
         }
         ExtentHtmlReporter htmlReporter = new ExtentHtmlReporter(OUTPUT_FOLDER + FILE_NAME);
         // 设置静态文件的DNS
-        //怎么样解决cdn.rawgit.com访问不了的情况
+        //怎么导入样式加载
         htmlReporter.config().setResourceCDN(ResourceCDN.EXTENTREPORTS);
-
         htmlReporter.config().setDocumentTitle("api自动化测试报告");
         htmlReporter.config().setReportName("api自动化测试报告");
         htmlReporter.config().setChartVisibilityOnOpen(true);
@@ -180,3 +181,14 @@ public class ExtentTestNgReporterListenerNew implements IReporter {
                 }
 
                 test.getModel().setStartTime(getTime(result.getStartMillis()));
+                test.getModel().setEndTime(getTime(result.getEndMillis()));
+            }
+        }
+    }
+
+    private Date getTime(long millis) {
+        Calendar calendar = Calendar.getInstance();
+        calendar.setTimeInMillis(millis);
+        return calendar.getTime();
+    }
+}
