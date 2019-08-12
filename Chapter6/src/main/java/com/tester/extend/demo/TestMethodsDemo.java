@@ -4,6 +4,9 @@ import org.testng.Assert;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
+/*
+加断言的测试方法
+ */
 public class TestMethodsDemo {
     @Test
     public void test1(){
