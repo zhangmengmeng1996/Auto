@@ -1,0 +1,43 @@
+/*
+moco框架模拟post请求以及待cookie的清秋
+*/
+[
+  {
+    "description":"模拟post请求",
+    "request":{
+      "uri":"/postdemo",
+      "method":"post",
+      "forms":{
+        "name":"111",
+        "sex":"man"
+      }
+    },
+    "response":{
+      "text":"cansh"
+    }
+  },
+  {
+    "description":"模拟重定向请求",
+    "request":{
+      "uri":"/redirect"
+    },
+    "redirectTo":"http://www.baidu.com"
+
+  },
+  {
+    "description":"模拟重定向请求到本地位置",
+    "request":{
+      "uri":"/redirectWith"
+    },
+    "redirectTo":"/redirect/new"},
+  {
+    "description":"模拟重定向请求",
+    "request":{
+      "uri":"/redirect/new"},
+    "response":{
+      "text":"重定向请求到这里"
+    }
+    }
+]
+
+

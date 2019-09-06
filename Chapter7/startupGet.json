@@ -11,9 +11,16 @@
     "description":"模拟一个带参数的请求",
     "request":{
       "uri":"/getwithparam",
-      "method":"get"
+      "method":"get",
+      "queries":{
+        "name":"111",
+        "age":"18"
+      }
+    },
+    "response":{
+      "text":"1111111"
     }
 
   }
 ]
-//注释
+//热部署：服务不用部署，可以自动升级
