@@ -36,7 +36,7 @@ public class MyHttpclient {
        //为什么不行
        result=EntityUtils.toString(httpResponse.getEntity(),"utf-8");
        System.out.println(result);
-
+//改动
 
     }
 

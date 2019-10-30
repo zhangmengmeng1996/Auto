@@ -2,27 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e15e94b-688d-4b82-89b6-94dd9d08b4e4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter7/startupPost.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter8/Chapter8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter8/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/MyHttpclient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20170516.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20170516.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_0_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/Chapter5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/Chapter5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter6/Chapter6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/Chapter6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter7/startup1.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter7/startup1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter7/startupGet.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter7/startupGet.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/MyHttpclient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/MyHttpclient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter9/Chapter9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter9/Chapter9.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Chapter6/target/" />
@@ -41,24 +24,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="startup1.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter7/startup1.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="compiler.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="modules.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -68,13 +33,70 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="383">
-              <caret line="28" column="10" lean-forward="true" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+              <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MycookiesForGet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter9/src/main/java/com/course/httpclient/cookies/MycookiesForGet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-31">
+              <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyCookiesForPost.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter9/src/main/java/com/course/httpclient/cookies/MyCookiesForPost.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-330">
+              <caret line="39" column="19" lean-forward="true" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyHttpclient.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/MyHttpclient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="startupPost.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter7/startupPost.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-475" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter9/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyHttpClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter9/src/main/java/com/course/httpclient/demo/MyHttpClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="startupWithCookies.json" pinned="false" current-in-tab="false">
@@ -93,6 +115,9 @@
         <option value="$PROJECT_DIR$/.idea/compiler.xml" />
         <option value="$PROJECT_DIR$/.idea/modules.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter9/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/Chapter9/src/main/java/com/course/httpclient/cookies/MyCookiesForPost.java" />
+        <option value="$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/MyHttpclient.java" />
       </list>
     </option>
   </component>
@@ -123,7 +148,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="25" />
     <option name="width" value="1389" />
     <option name="height" value="900" />
@@ -141,25 +166,6 @@
             <path>
               <item name="Auto" type="b2602c69:ProjectViewProjectNode" />
               <item name="Auto" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Auto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Auto" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Auto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Auto" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Auto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Auto" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Auto" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -184,7 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.MyCookiesForPost">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -203,6 +209,93 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="MyCookiesForPost" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.httpclient.cookies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.course.httpclient.cookies" />
+      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.cookies.MyCookiesForPost" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="MyHttpClient" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.httpclient.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.course.httpclient.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.demo.MyHttpClient" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="MycookiesForGet" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.httpclient.cookies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.course.httpclient.cookies" />
+      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.cookies.MycookiesForGet" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -284,6 +377,18 @@
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
+    <list>
+      <item itemvalue="TestNG.MyCookiesForPost" />
+      <item itemvalue="TestNG.MyHttpClient" />
+      <item itemvalue="TestNG.MycookiesForGet" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MyCookiesForPost" />
+        <item itemvalue="TestNG.MycookiesForGet" />
+        <item itemvalue="TestNG.MyHttpClient" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -337,7 +442,7 @@
       <workItem from="1572353204099" duration="4523000" />
       <workItem from="1572404886439" duration="269000" />
       <workItem from="1572405224645" duration="439000" />
-      <workItem from="1572409031538" duration="152000" />
+      <workItem from="1572409031538" duration="1829000" />
     </task>
     <task id="LOCAL-00001" summary="20190729">
       <created>1564376255441</created>
@@ -412,8 +517,34 @@
     <option name="localTasksCounter" value="11" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="MyCookiesForPost - 2019.10.30 at 12h 21m 59s.xml">
+      <configuration name="MyCookiesForPost" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MyHttpClient - 2019.10.30 at 12h 23m 41s.xml">
+      <configuration name="MyHttpClient" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MycookiesForGet - 2019.10.30 at 12h 24m 04s.xml">
+      <configuration name="MycookiesForGet" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MyCookiesForPost - 2019.10.30 at 12h 25m 33s.xml">
+      <configuration name="MyCookiesForPost" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MyCookiesForPost - 2019.10.30 at 12h 26m 21s.xml">
+      <configuration name="MyCookiesForPost" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MyCookiesForPost - 2019.10.30 at 12h 30m 39s.xml">
+      <configuration name="MyCookiesForPost" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MyCookiesForPost - 2019.10.30 at 12h 30m 48s.xml">
+      <configuration name="MyCookiesForPost" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MyCookiesForPost - 2019.10.30 at 12h 37m 52s.xml">
+      <configuration name="MyCookiesForPost" configurationId="TestNG" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="684000" />
+    <option name="totallyTimeSpent" value="2361000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -421,6 +552,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32881355" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49923664" weight="0.32881355" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
@@ -428,7 +560,7 @@
       <window_info anchor="right" id="Maven Projects" order="10" weight="0.32977098" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.53664124" weight="0.9627119" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.57099235" weight="0.7101695" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.57099235" weight="0.32881355" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49923664" weight="0.5711864" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
@@ -445,7 +577,6 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49923664" weight="0.32881355" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Bean Validation" order="11" />
       <window_info id="Web" order="7" side_tool="true" />
@@ -538,20 +669,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/groups/GroupsOnClass1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/groups/GroupsOnClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/suite/SuiteConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -697,7 +814,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter7/startupPost.json" />
     <entry file="file://$PROJECT_DIR$/Chapter7/基本操作说明">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -726,28 +842,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/MyHttpclient.java" />
     <entry file="file://$PROJECT_DIR$/Chapter5/Chapter5.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter9/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter9/src/main/java/com/course/httpclient/demo/MyHttpClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter9/src/main/java/com/course/httpclient/cookies/MycookiesForGet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="56" column="25" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -778,9 +876,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter7/startupWithCookies.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter10/src/main/java/com/course/server/MyGetPost.java" />
     <entry file="file://$PROJECT_DIR$/Chapter10/src/main/java/Application.java" />
     <entry file="file://$PROJECT_DIR$/Chapter10/pom.xml" />
@@ -801,7 +896,53 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="383">
-          <caret line="28" column="10" lean-forward="true" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter9/src/main/java/com/course/httpclient/cookies/MycookiesForGet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter9/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter7/startupPost.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-475" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter7/startupWithCookies.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter9/src/main/java/com/course/httpclient/cookies/MyCookiesForPost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="39" column="19" lean-forward="true" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter9/src/main/java/com/course/httpclient/demo/MyHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/MyHttpclient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
         </state>
       </provider>
     </entry>
