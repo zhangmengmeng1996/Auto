@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e15e94b-688d-4b82-89b6-94dd9d08b4e4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/MyHttpclient.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/MyHttpclient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter9/Chapter9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter9/Chapter9.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Chapter6/target/" />
@@ -24,15 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="modules.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="116" selection-start-line="8" selection-start-column="116" selection-end-line="8" selection-end-column="116" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -60,12 +48,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyHttpclient.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyHttpclient.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter8/src/main/java/com/course/httpclient/demo/MyHttpclient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="253">
               <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-330" />
           </provider>
         </entry>
       </file>
@@ -148,7 +143,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="25" />
     <option name="width" value="1389" />
     <option name="height" value="900" />
@@ -166,6 +161,11 @@
             <path>
               <item name="Auto" type="b2602c69:ProjectViewProjectNode" />
               <item name="Auto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Auto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Auto" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -442,7 +442,7 @@
       <workItem from="1572353204099" duration="4523000" />
       <workItem from="1572404886439" duration="269000" />
       <workItem from="1572405224645" duration="439000" />
-      <workItem from="1572409031538" duration="1829000" />
+      <workItem from="1572409031538" duration="2132000" />
     </task>
     <task id="LOCAL-00001" summary="20190729">
       <created>1564376255441</created>
@@ -544,11 +544,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2361000" />
+    <option name="totallyTimeSpent" value="2664000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32881355" />
@@ -669,13 +668,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/suite/SuiteConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/groups/GroupsOnClass2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -944,6 +936,11 @@
         <state relative-caret-position="253">
           <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330" />
       </provider>
     </entry>
   </component>
